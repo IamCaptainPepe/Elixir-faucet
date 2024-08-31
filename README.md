@@ -19,13 +19,16 @@
 
 `
 pip install web3
-`
+
 
 Использование
 Склонируйте репозиторий
 
 `
 git clone https://github.com/IamCaptainPepe/Elixir-faucet.git
+`
+
+`
 cd Elixir-faucet
 `
 
